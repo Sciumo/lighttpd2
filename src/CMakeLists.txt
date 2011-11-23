@@ -226,6 +226,7 @@ SET(LIGHTTPD_SHARED_SRC
 	response.c
 	server.c
 	stat_cache.c
+	stream.c
 	throttle.c
 	url_parser.c
 	value.c
